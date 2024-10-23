@@ -6,7 +6,7 @@ import path from 'path';
 const dataDir = path.join( process.cwd(), 'data2' );
 
 // function returns names and ids for all json objects in array, sorted by name property
-export function getSortedList() {
+export function getSortedList(obj2) {
   // get filepath to json file
   const filePath = path.join(dataDir, 'person2.json');
   

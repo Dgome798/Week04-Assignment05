@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Layout from '../components/layout';
-import { getSortedList } from '../lib/data2';
+import { getSortedList } from '../lib/data';
 
 // define a getStaticProps() function - this name is defined by next.js
 export async function getStaticProps() {

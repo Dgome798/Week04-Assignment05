@@ -1,0 +1,30 @@
+[
+    {"name": "Jane Coder",
+     "email": "jane@coder.com",
+     "phone": "800-456-1234",
+     "birthdate": "04/01/2020",
+     "id": 1
+    },
+    {
+     "name": "Frida Gomam",
+     "email": "frida@gomam.com",
+     "phone": "801-454-7234",
+     "birthdate": "10/12/2020",
+     "id": 2   
+    },
+    {
+        "name": "Wednesday addams",
+        "email": "Addams@weds.com",
+        "phone": "404-404-1404",
+        "birthdate": "02/20/2020",
+        "id": 3   
+       },
+    {
+     "name": "Joe King",
+     "email": "joe@king.com",
+     "phone": "600-496-4934",
+     "birthdate": "01/09/2020",
+     "id": 4
+    }
+ 
+]

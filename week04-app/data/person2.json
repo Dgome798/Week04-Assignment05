@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Nicki Roman",
+        "email": "Nicki@Roman.com",
+        "phone": "333-989-4424",
+        "birthdate": "02/20/2024",
+        "id": 1   
+       },
+    {
+     "name": "Itz Mam",
+     "email": "Itz@Mam.com",
+     "phone": "707-876-4434",
+     "birthdate": "01/15/2022",
+     "id": 2
+    },
+    {
+        "name": "Maul Wan",
+        "email": "Maul@wan.com",
+        "phone": "404-404-1404",
+        "birthdate": "02/12/2021",
+        "id": 3  
+       },
+    {
+     "name": "Chrollo Styles",
+     "email": "Chrollo@Styles.com",
+     "phone": "202-566-7654",
+     "birthdate": "01/09/2013",
+     "id": 4
+    }
+]
